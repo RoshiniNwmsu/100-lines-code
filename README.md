@@ -52,5 +52,5 @@ This is a simple console-based Employee Management System built in C# that manag
 
 ## Author
 
-- Roshini Nwmsu  
+- Roshini Bikkina
 - GitHub: [@RoshiniNwmsu](https://github.com/RoshiniNwmsu)
